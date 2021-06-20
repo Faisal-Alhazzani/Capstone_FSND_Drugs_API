@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85f4a1b6-f1a0-461e-a7aa-95b5a6314bb4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../FyuurApp_V2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Trivia_API_V2.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/fabfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/css/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/css/layout.forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/css/layout.main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/css/main.quickfix.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/css/main.responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/img/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/img/front-splash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/js/libs/bootstrap-3.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/js/libs/jquery-1.11.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/js/libs/jquery-1.11.1.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/js/libs/modernizr-2.8.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/js/libs/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/js/libs/respond-1.4.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/static/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/errors/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/errors/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/edit_artist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/edit_venue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/new_artist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/new_show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/new_venue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/layouts/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/layouts/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/pages/artists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/pages/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/pages/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/pages/search_artists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/pages/search_venues.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/pages/show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/pages/show_artist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/pages/show_venue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/pages/shows.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/pages/venues.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/flaskr/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/pip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/test_flaskr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/trivia.psql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/public/art.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/public/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/public/entertainment.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/public/geography.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/public/history.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/public/science.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/public/sports.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/components/FormView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/components/Question.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/components/QuestionView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/components/QuizView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/components/Search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/stylesheets/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/stylesheets/FormView.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/stylesheets/Header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/stylesheets/Question.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/stylesheets/QuizView.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/stylesheets/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/database.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udacity-fsnd-udaspicelatte.postman_collection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/ionic.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/drink-menu/drink-form/drink-form.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/drink-menu/drink-form/drink-form.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/drink-menu/drink-form/drink-form.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/drink-menu/drink-form/drink-form.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/drink-menu/drink-graphic/drink-graphic.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/drink-menu/drink-graphic/drink-graphic.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/drink-menu/drink-graphic/drink-graphic.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/drink-menu/drink-graphic/drink-graphic.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/drink-menu/drink-menu.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/drink-menu/drink-menu.page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/drink-menu/drink-menu.page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/drink-menu/drink-menu.page.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/drink-menu/drink-menu.page.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/tabs/tabs.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/tabs/tabs.page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/tabs/tabs.page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/tabs/tabs.page.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/tabs/tabs.page.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/tabs/tabs.router.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/user-page/user-page.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/user-page/user-page.page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/user-page/user-page.page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/user-page/user-page.page.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/pages/user-page/user-page.page.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/services/auth.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/services/drinks.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/assets/icon/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/assets/shapes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/theme/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/zone-flags.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/tslint.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1tzhRaSIpNLRzi0Fb56Oh3N4PyC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85f4a1b6-f1a0-461e-a7aa-95b5a6314bb4" name="Default Changelist" comment="" />
+      <created>1623777821315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623777821315</updated>
+    </task>
+    <servers />
+  </component>
+</project>
